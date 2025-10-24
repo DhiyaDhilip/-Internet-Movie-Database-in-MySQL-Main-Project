@@ -1,4 +1,4 @@
-# -Internet-Movie-Database-in-MySQL-Main-Project
+#  Internet-Movie-Database-in-MySQL-Main-Project
 It’s a massive online platform owned by Amazon that catalogs details about movies, TV shows, video games, and streaming content. It includes cast, crew, ratings, reviews, trivia, and more—helping users discover, rate, and explore entertainment worldwide.
 
 
@@ -8,7 +8,7 @@ It’s a massive online platform owned by Amazon that catalogs details about mov
 ###  Project Overview:
 This project uses **MySQL** to explore and analyze a simulated IMDB-style movie database. It covers a wide range of SQL operations including aggregation, filtering, joins, subqueries, and window functions to extract meaningful insights from movie, rating, actor, and production data.
 
----
+
 
 ###  Key Tasks & SQL Challenges Covered:
 
@@ -49,14 +49,14 @@ This project uses **MySQL** to explore and analyze a simulated IMDB-style movie 
 - 10 oldest movies with title, country, and director  
 - Movie with longest duration, including genre and production company  
 
----
+
 
 ###  Tools & Technologies:
 - MySQL: Querying and analysis  
 - SQL Functions: COUNT, AVG, MIN, MAX, GROUP BY, HAVING, JOIN, CASE, DATE functions  
 - Database Schema: Movies, Ratings, Names, Production, Genre, Country
 
----
+
 
 ###  Outcome:
 This project demonstrates your ability to write complex SQL queries for real-world business and entertainment data. It highlights your skills in data exploration, trend analysis, and performance benchmarking — essential for roles in data analytics and business intelligence.
